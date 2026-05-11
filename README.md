@@ -1,4 +1,4 @@
-<!--
+`<!--
 <img src="https://drive.google.com/uc?id=1fgYuG7jpnekZrkoL_PdVUnSiUFBFX-vI" alt="Logo" width="150" style="float: left; margin-right: 10px;">
 -->
 
@@ -43,7 +43,7 @@ While the examples provided are focused on R, the basic principles apply to any 
 - [4. Documenting Functions](#4-documenting-functions)  
 - [5. Project Directory Structure](#5-project-directory-structure)  
 - [6. Code Review](#6-code-review)  
-- [7. ABMI GitHub Policy](#7-abmi-github-policy)  
+- [7. Science Centre GitHub Policy](#7-science-centre-github-policy)  
 
 ---
 
@@ -539,7 +539,7 @@ See the table below for full details.
 
 ---
 
-## 7. ABMI GitHub Policy
+## 7. Science Centre GitHub Policy
 
 GitHub (and Git) are powerful tools for facilitating reproducible code repositories. This will allow the ABMI to better showcase the technical work that goes into developing the variety of data products we provide. The purpose of the ABMI GitHub Policy is to provide general information to new users and outline a standard policy for what information is made available. The following document outlines:
 
